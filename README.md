@@ -46,3 +46,5 @@ Getting Started
 
 ---
 Created by: @avocatosql | Data Analyst Portfolio | Data Base Provider https://www.kaggle.com/
+
+Portfolio was made without using any AI as test of my competencies. Portofolio is still on hold since I need to finish my Python course.
